@@ -1,5 +1,7 @@
 # CuSoft Crypto Wallet
 
+***WORK IN PROGRESS***
+
 ![Demo Animation](https://github.com/jmcusac/CuSoft-React-Native-Portfolio/blob/main/graphics/bitcoin.webp?raw=true)
 
 ### Mission Statement:
