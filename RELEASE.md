@@ -1,6 +1,6 @@
-# Unstoppable Wallet Release
+# CuSoft Wallet Release
 
-This document describes the release process for `Unstoppable` app.
+This document describes the release process for the wallet.
 
 ### 1. Prepare dependent libraries
 
