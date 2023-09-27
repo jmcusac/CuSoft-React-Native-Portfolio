@@ -17,5 +17,3 @@ CuSoft is a powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance S
  - It is fully peer-to-peer and works without any centrally managed servers. It can't be stopped, blocked or taken down.
 
 Such approach enables the wallet to operate anywhere and remain censorship-resistant. Only the user is in control of the money.
-
-![Demo Animation](https://github.com/jmcusac/CuSoft-React-Native-Portfolio/blob/main/graphics/blockchain.webp?raw=true)
