@@ -1,10 +1,10 @@
-# CuSoft Crypto Wallet
+# Cusack Portfolio
 
 ![Demo Animation](https://github.com/jmcusac/CuSoft-React-Native-Portfolio/blob/main/graphics/bitcoin.webp?raw=true)
 
 ***WORK IN PROGRESS***
 
-***THIS PROJECT IS MY CURRENT PERSONAL FOCUS***
+Beginning with the YML for core automation and creating a standalone BTC node wallet from open source, ensuring "create wallet" is generating unique seed phrases.
 
 ### Mission Statement:
 
